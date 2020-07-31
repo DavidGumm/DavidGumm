@@ -2,7 +2,6 @@
 
 🌱 I’m currently learning Elixir and the Pheonix framwork.  
 [davidgumm.com](https://www.davidgumm.com/)  
-[http://localhost:4000](http://localhost:4000)  
 [DavidGumm.github.io](https://github.com/DavidGumm/DavidGumm.github.io)  
 [PowerShell](https://github.com/DavidGumm/PowerShell)  
 
