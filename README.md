@@ -3,15 +3,17 @@
 🌱 I’m currently learning Elixir and the Pheonix framwork.
 
 🎓 This to add to my repositories.
-[] -Hash tables
-[] -Linked lists
-[] -Binary search trees
-[] -Dynamic programming
-[] -Breadth-first search, depth-first search
-[] -Quicksort, merge sort
-[] -2D arrays
-[] -Dynamic arrays
-[] -Big-O analysis
+- [ ] Hash tables
+- [ ] Linked lists
+- [ ] Binary search trees
+- [ ] Dynamic programming
+- [ ] Breadth-first search, depth-first search
+- [ ] Quicksort, merge sort
+- [ ] 2D arrays
+- [ ] Dynamic arrays
+- [ ] Big-O analysis
+- [ ] FizzBuzz
+- [ ] Reverse a string
 
 
 <!--
