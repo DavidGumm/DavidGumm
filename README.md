@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Elixir and the Pheonix framwork.  
-[davidgumm.com](https://www.davidgumm.com/)  
-[DavidGumm.github.io](https://github.com/DavidGumm/DavidGumm.github.io)  
-[PowerShell](https://github.com/DavidGumm/PowerShell)  
+[gumm.dev](https://www.gumm.dev/)
+[PowerShell](https://github.com/DavidGumm/PowerShell)
 
 🎓 This to add to my repositories.
 - [ ] Hash tables
@@ -19,8 +17,7 @@
 - [ ] Reverse a string
 
 
-<!--
-**DavidGumm/DavidGumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **DavidGumm/DavidGumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
