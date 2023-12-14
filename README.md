@@ -1,21 +1,8 @@
 ### Hi there 👋
 
 [gumm.dev](https://www.gumm.dev/)
-[PowerShell](https://github.com/DavidGumm/PowerShell)
-
-🎓 This to add to my repositories.
-- [ ] Hash tables
-- [ ] Linked lists
-- [ ] Binary search trees
-- [ ] Dynamic programming
-- [ ] Breadth-first search, depth-first search
-- [ ] Quicksort, merge sort
-- [ ] 2D arrays
-- [ ] Dynamic arrays
-- [ ] Big-O analysis
-- [ ] FizzBuzz
-- [ ] Reverse a string
-
+<br/>
+[Scripts](https://github.com/DavidGumm/Scripts)
 
 <!-- **DavidGumm/DavidGumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
