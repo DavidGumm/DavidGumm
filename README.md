@@ -2,7 +2,7 @@
 
 [gumm.dev](https://www.gumm.dev/)
 <br/>
-[Scripts](https://github.com/DavidGumm/Scripts)
+[scripts](https://github.com/DavidGumm/scripts)
 
 <!-- **DavidGumm/DavidGumm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
